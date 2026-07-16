@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2019-2026 Ladson Sa
+
+The Academic / Source Code portion of this project is licensed under the MIT License. 
+See below for terms and conditions.
+
+==============================================================================
+EXCEPTIONS AND THIRD-PARTY ASSETS:
+==============================================================================
+This repository contains third-party media assets (including but not limited to 
+images, audio, and video files in the 'imagens/', 'sons/', and 'video/' directories) 
+originally collected in 2019 for educational, non-commercial, academic purposes 
+at the Federal University of Rio Grande do Norte (UFRN)[cite: 1]. 
+
+These media assets are EXPLICITLY NOT covered by the MIT License[cite: 1]. The intellectual 
+property rights, trademarks, and copyrights of these media assets belong exclusively 
+to their original respective creators[cite: 1]. 
+
+If you are the copyright holder of any media asset present in this repository and 
+wish for it to be removed or replaced, please contact the repository owner by opening 
+an issue, and it will be replaced immediately[cite: 1].
+==============================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
