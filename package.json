@@ -1,0 +1,29 @@
+{
+  "name": "battle-spaceship-game",
+  "version": "1.0.0",
+  "description": "> **From a university programming course project to a Software Engineering case study.**",
+  "main": "p5.dom.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "...",
+    "lint": "...",
+    "format": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladsonsa/battle-spaceship-game.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ladsonsa/battle-spaceship-game/issues"
+  },
+  "homepage": "https://github.com/ladsonsa/battle-spaceship-game#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.7.0",
+    "globals": "^17.7.0",
+    "prettier": "^3.9.5"
+  }
+}
+
