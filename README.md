@@ -5,7 +5,7 @@
 This repository preserves the original implementation of my first programming project and documents its evolution into a professionally structured software architecture through incremental refactoring and modern engineering practices.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/version-v1.0.0-blue" alt="Version" />
+  <img src="https://img.shields.io/badge/version-v1.0.1-blue" alt="Version" />
   <img src="https://img.shields.io/badge/status-maintained-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/p5.js-Game-red" alt="p5.js" />
@@ -18,7 +18,7 @@ This repository preserves the original implementation of my first programming pr
 
 | Current Version | Next Milestone              |
 | :---:           | :---                        |
-| **v1.0.0**      | JavaScript Refactoring (v2) |
+| **v1.0.1**      | JavaScript Refactoring (v2) |
 
 ## 📖 About
 
@@ -57,7 +57,7 @@ This version is intentionally preserved with minimal modifications. It represent
 * Preserve the original source code.
 * Document the initial project structure.
 * Keep the original gameplay unchanged.
-* Apply only essential fixes related to documentation, licensing, and repository organization.
+* Apply only essential fixes that preserve the original implementation, such as critical stability fixes, documentation improvements, licensing updates, and repository organization.
 
 ---
 
@@ -364,9 +364,9 @@ The project evolves through well-defined milestones. Each version introduces arc
 
 | Version    | Status | Objective                                                                                  |
 | ---------- | :----: | ------------------------------------------------------------------------------------------ |
-| **v1.0.0** |    ✅   | Preserve the original implementation and establish the project's historical baseline.      |
+| **v1.0.1** |   ✅   | Preserve the original implementation as the historical baseline while applying only critical stability fixes. |
 | **v2.0.0** |   🚧   | Refactor the JavaScript architecture using modern software engineering principles.         |
-| **v3.0.0** |    ⏳   | Migrate the stabilized architecture to TypeScript with strong typing and improved tooling. |
+| **v3.0.0** |   ⏳   | Migrate the stabilized architecture to TypeScript with strong typing and improved tooling. |
 
 ### Planned Evolution
 
