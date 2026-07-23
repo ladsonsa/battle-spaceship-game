@@ -128,7 +128,7 @@ function reset()
   timetest=0; temCont=false; temCont2=true;
   contSom=0; controlVol=0; piscEstr=0;
   pontosXP=500;
-  contBomb=0; tamBomb=25; boss=0;
+  contBomb=0; tamBomb=25;
   especial=1;
   dificul=0; contDificul=0;
   quantObs=20;
